@@ -31,19 +31,17 @@ Beyond research, I have a strong interest in innovation and entrepreneurship. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[A universal method to recognize global big rivers estuarine turbidity maximum from remote sensing](https://www.sciencedirect.com/science/article/abs/pii/S0924271625000024)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Jian Sun Chongyang Wang, Chenghu Zhou, Xia Zhou, **Mingjie Duan**, Yingwei Yan, Jiaxue Wang, Li Wang, Kai Jia, Yishan Sun, Danni Wang, Yangxiaoyue Liu, Dan Li, Jinyue Chen h, Hao Jiang, Shuisen Chen
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[From cropland to cropped field: A robust algorithm for national-scale mapping by fusing time series of Sentinel-1 and Sentinel-2](https://www.sciencedirect.com/science/article/pii/S1569843222001947)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+Bingwen Qiu, Duoduo Lin, Chongcheng Chen, Peng Yang, Zhenghong Tang, Zhenong Jin, Zhiyan Ye, Xiaolin Zhu, **Mingjie Duan**, Hongyu Huang, Zhiyuan Zhao, Weiming Xu, Zuoqi Chen
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[Unveiling grain production patterns in China (2005–2020) towards targeted sustainable intensification](https://www.sciencedirect.com/science/article/pii/S0308521X24000283)
+
+Bingwen Qiu, Zeyu Jian, Peng Yang, Zhenghong Tang, Xiaolin Zhu, **Mingjie Duan**, Qiangyi Yu, Xuehong Chen, Miao Zhang, Ping Tu, Weiming Xu, Zhiyuan Zhao
 
 # 🎖 Honors and Awards
 - Department of Land Surveying and Geo-Informatics Scholarship for Hall Residents 2024/25
