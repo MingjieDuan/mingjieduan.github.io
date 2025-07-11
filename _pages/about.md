@@ -23,8 +23,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 I am happy to share that I have received admission from Department of Geography, The University of Hong Kong, as a Master of Philosophy candidate, with effect from September 2025! 
+- *2025.05*: &nbsp;🎉🎉 I have successfully graduated from the Hong Kong Polytechnic University with a Bachelor of Engineering degree in May 2025. My thesis topic is: "Enhancing the Gaussian Two-step floating catchment area (G2SFCA) Method to Green Space Accessibility Considering Multiple Transportation Modes and Age Group in Hong Kong". Thanks to everyone who has helped me through the years at PolyU, and congratulations to the Class of 2025!
+- *2025.05*: &nbsp;🎉🎉 I am happy to share that I have received Department of Land Surveying and Geo-Informatics Scholarship for Hall Residents 2024/25 together with Presidential Student Leadership Award 2024/25! These are valualble recognitions to my personal growth. Thanks every individual who has supported me!
 
 # 📝 Publications 
 
@@ -43,16 +44,22 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Department of Land Surveying and Geo-Informatics Scholarship for Hall Residents 2024/25
+- Presidential Student Leadership Award 2024/25
+- HKSAR Government Scholarship Fund – Talent Development Scholarship 2023/24
+- Championship at HKAES University Pitch Competition on Global Grand Challenges 2023/2024 [Presentation](https://youtu.be/DYg3fTBqf4k?si=eRdQMjBGE5m_t1El)
+- Best GBA Solution Award at Cathay Hackathon 2023
+- Undergraduate Research and Innovation Scholarship
+- 3rd Runner Up at the 9th Chinese Uiversity Students Entrepreneurship Contest
+- Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 to now*, Master of Philosophy (MPhil), Department of Geography, The University of Hong Kong. Supervisor: [Prof. HUANG Bo](https://hub.hku.hk/cris/rp/rp03146;jsessionid=23937E2088A0918E7026322DFC259D34)
+- *2021.08 - 2025.05*, Bachelor of Science in Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University. thesis topic: "Enhancing the Gaussian Two-step floating catchment area (G2SFCA) Method to Green Space Accessibility Considering Multiple Transportation Modes and Age Group in Hong Kong". Supervisor: [Prof. ZHU Xiaolin](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-zhu-xiao-lin/?sc_lang=en) 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.04*, EcoFlight: Enhancing Aircraft Ground Operations for Reduced Carbon Emissions, [HKAES Pitch Competition on Grand Challenge
+Engineering Topics for University Students 2023-24 ](https://pitchcomp.hkae.hk/en/competingteams.asp#accordionCompetingTeams)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.05 - 2023.06*, Fujian Institute of Geological Surveying and Mapping, Fuzhou, China. Description: Land survey field practice and internal data processing, land use-related thematic map production and data processing, spatio-temporal data analysis and modeling, and writing related technical reports
