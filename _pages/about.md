@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Mingjie DUAN (Josie), currently an M.Phil. student in [Department of Geography](https://geog.hk.hk) at The University of Hong Kong, under the supervision of [Prof. HUANG Bo](https://hub.hku.hk/cris/rp/rp03146;jsessionid=23937E2088A0918E7026322DFC259D34). I earned my BSc (Hons) in Land Surveying and Geo-Informatics from the Hong Kong Polytechnic University in 2025, where I completed a thesis on enhancing green space accessibility for different age groups in Hong Kong, supervised by [Prof. ZHU Xiaolin](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-zhu-xiao-lin/?sc_lang=en). My current research interests lie at the intersection of geospatial analysis, remote sensing, and urban sustainability. I am particularly passionate about applying GIS and environmental informatics to real-world challenges such as green space planning, transportation optimization, and climate-resilient urban development.
+Hello! I am Mingjie DUAN (Josie), currently an M.Phil. student in [Department of Geography](https://geog.hku.hk) at The University of Hong Kong, under the supervision of [Prof. HUANG Bo](https://hub.hku.hk/cris/rp/rp03146;jsessionid=23937E2088A0918E7026322DFC259D34). I earned my BSc (Hons) in Land Surveying and Geo-Informatics from the Hong Kong Polytechnic University in 2025, where I completed a thesis on enhancing green space accessibility for different age groups in Hong Kong, supervised by [Prof. ZHU Xiaolin](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-zhu-xiao-lin/?sc_lang=en). My current research interests lie at the intersection of geospatial analysis, remote sensing, and urban sustainability. I am particularly passionate about applying GIS and environmental informatics to real-world challenges such as green space planning, transportation optimization, and climate-resilient urban development.
 
 I have co-authored multiple peer-reviewed journal articles in high-impact publications such as Remote Sensing of Environment, Agricultural Systems, and the ISPRS Journal of Photogrammetry and Remote Sensing. My work focuses on satellite data processing, land-use classification, and environmental monitoring, with an emphasis on developing robust, scalable algorithms. (You can also use google scholar badge to browse my work<a href='https://scholar.google.com/citations?user=QcrNo4IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -43,6 +43,18 @@ Bingwen Qiu, Duoduo Lin, Chongcheng Chen, Peng Yang, Zhenghong Tang, Zhenong Jin
 
 Bingwen Qiu, Zeyu Jian, Peng Yang, Zhenghong Tang, Xiaolin Zhu, **Mingjie Duan**, Qiangyi Yu, Xuehong Chen, Miao Zhang, Ping Tu, Weiming Xu, Zhiyuan Zhao
 
+[A robust index to extract paddy fields in cloudy regions from SAR time series](https://www.sciencedirect.com/science/article/pii/S0034425722004801)
+
+Shuai Xu, Xiaolin Zhu, Jin Chen, Xuelin Zhu, **Mingjie Duan**, Bingwen Qiu, Luoma Wan, Xiaoyue Tan, Yi Nam Xu, Ruyin Ca
+
+[Mapping upland crop–rice cropping systems for targeted sustainable intensification in South China](https://www.sciencedirect.com/science/article/pii/S2214514124000503)
+
+Bingwen Qiu, Linhai Yu, Peng Yang, Wenbin Wu, Jianfeng Chen, Xiaolin Zhu, **Mingjie Duan**
+
+[Anthropogenic Drivers of Hourly Air Pollutant Change in an Urban Environment during 2019–2021—A Case Study in Wuhan ](https://doi.org/10.3390/su152416694)
+
+Yi Zhang, Jie Song, Bo Zhu, Jiangping Chen, **Mingjie Duan**
+
 # 🎖 Honors and Awards
 - Department of Land Surveying and Geo-Informatics Scholarship for Hall Residents 2024/25
 - Presidential Student Leadership Award 2024/25
@@ -54,12 +66,14 @@ Bingwen Qiu, Zeyu Jian, Peng Yang, Zhenghong Tang, Xiaolin Zhu, **Mingjie Duan**
 - Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship
 
 # 📖 Educations
-- *2025.09 to now*, Master of Philosophy (MPhil), Department of Geography, The University of Hong Kong. Supervisor: [Prof. HUANG Bo](https://hub.hku.hk/cris/rp/rp03146;jsessionid=23937E2088A0918E7026322DFC259D34)
-- *2021.08 - 2025.05*, Bachelor of Science (Hons) in Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University. thesis topic: "Enhancing the Gaussian Two-step floating catchment area (G2SFCA) Method to Green Space Accessibility Considering Multiple Transportation Modes and Age Group in Hong Kong". Supervisor: [Prof. ZHU Xiaolin](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-zhu-xiao-lin/?sc_lang=en) 
+- *2025.09 to now*, Master of Philosophy (MPhil) Candidate, Department of Geography, The University of Hong Kong. Supervisor: [Prof. HUANG Bo](https://hub.hku.hk/cris/rp/rp03146;jsessionid=23937E2088A0918E7026322DFC259D34)
+- *2021.08 - 2025.05*, Bachelor of Science (Hons) in Land Surveying and Geo-Informatics, Department of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University. thesis topic: "Enhancing the Gaussian Two-step floating catchment area (G2SFCA) Method to Green Space Accessibility Considering Multiple Transportation Modes and Age Group in Hong Kong". Supervisor: [Prof. ZHU Xiaolin](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-zhu-xiao-lin/?sc_lang=en) 
 
 # 💬 Invited Talks
 - *2024.04*, EcoFlight: Enhancing Aircraft Ground Operations for Reduced Carbon Emissions, [HKAES Pitch Competition on Grand Challenge
 Engineering Topics for University Students 2023-24 ](https://pitchcomp.hkae.hk/en/competingteams.asp#accordionCompetingTeams)
+- *2024.10*, Sharing with CURI & URIS donors (Dr. Roy Chung, JP)
+- *2025.04*, Sharing with CURI & URIS donors (The Kuok Group, Singapore)
 
 # 💻 Internships
 - *2023.05 - 2023.06*, Fujian Institute of Geological Surveying and Mapping, Fuzhou, China. Description: Land survey field practice and internal data processing, land use-related thematic map production and data processing, spatio-temporal data analysis and modeling, and writing related technical reports
